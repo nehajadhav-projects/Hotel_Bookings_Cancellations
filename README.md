@@ -5,4 +5,11 @@ To find the booking cancellation rate by using guest types, city or resort and y
 ## Dataset used
 Hotel bookings  Dataset link 
 - <a href="https://github.com/nehajadhav-projects/Hotel_Bookings_Cancellations/blob/main/dataset.xlsx">Hotel Bookings Cancellations</a>
+## Questions (KPIs)
+•	Comparison between city hotel and resort hotel.
+•	Which customers cancel maximum bookings?
+•	How many total and cancel bookings?
+•	Which months in specific year made maximum bookings and cancellations?
+## Dashboard Interaction < view dashboard
+
 
