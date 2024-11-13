@@ -17,7 +17,8 @@ Hotel bookings  Dataset link
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
 -	Created pivot tables according to questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-  ## Dashboard<a href="https://github.com/nehajadhav-projects/Hotel_Bookings_Cancellations/blob/main/hotel.png">
+  ## Dashboard
+  
   ## Project Insight
 -	Room Demand: The most desired rooms experience the highest bookings and cancellations.
 -	Guest Trends: Couples account for the majority of bookings and cancellations, while families and single guests book and cancel less.
